@@ -1,13 +1,14 @@
-# Tic-tac-toe
+# Tic-tac-toe game
 
 ### Java homework
 
-### Что это за игра и что она умеет?
-* Это игра крестики-нолики, взаимодействие происходит через консоль
-* Есть возможность играть на 2-ух полях: Прямоугольное поле и HEX-поле\
-* Есть возможность играть человеку
-* Есть возможность добавить в игру рандомного игрока, последовательного игрока (Он сначала заполняет первый ряд слева на право, а дальше следующий ряд)
+### What is this game?
+- It is game tic-tac-toe, interaction using console input
+- It has ability playing on two different boards: rectangle and HEX fields
+- It is single player game
+- It has ability add several player. For example: one user and other bots
 
-### Какие парадигмы ООП использовались?
-* Полиморфизм
-* Наследование
+### Использование ООП в этой игре?
+- Polymorphism
+- Inheritance
+- Encapsulation
